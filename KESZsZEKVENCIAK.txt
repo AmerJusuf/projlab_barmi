@@ -1,0 +1,5 @@
+studentMove
+Inst Move
+st pickitem
+inst pickitem
+student drop item
