@@ -2528,7 +2528,7 @@
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">h8TS+Gj5KUuOufi6l0Ly7AAA</XPD:REF>
 <XPD:REF name="Associations[1]">uyT5QKM9BE2OhP5Y6Zg70wAA</XPD:REF>
-<XPD:ATTR name="#Instances" type="integer">19</XPD:ATTR>
+<XPD:ATTR name="#Instances" type="integer">18</XPD:ATTR>
 <XPD:REF name="Instances[0]">gszDi0UKW0KvXmYcykxU6QAA</XPD:REF>
 <XPD:REF name="Instances[1]">PUAtGjdlRUa4k98gtrPYywAA</XPD:REF>
 <XPD:REF name="Instances[2]">WyS8E6Vop0i+0zfxDkiDrgAA</XPD:REF>
@@ -2538,16 +2538,17 @@
 <XPD:REF name="Instances[6]">tHFKPtd34EWaZ8tlsTNzOgAA</XPD:REF>
 <XPD:REF name="Instances[7]">JerJrcMtJUOs7e9XWYtXEwAA</XPD:REF>
 <XPD:REF name="Instances[8]">Ivyi981oOkO4uL2SRRsB/gAA</XPD:REF>
-<XPD:REF name="Instances[9]">lA8RdbnZ6U+QsIa89pC84gAA</XPD:REF>
-<XPD:REF name="Instances[10]">hBR0iwjSsE6/DFlR9SXyJgAA</XPD:REF>
-<XPD:REF name="Instances[11]">7OhFwo4tDUqIdRbVPYyogwAA</XPD:REF>
-<XPD:REF name="Instances[12]">+jV18SYomkyDMDegY1KelQAA</XPD:REF>
-<XPD:REF name="Instances[13]">lS+FLEK8qEyuZkWYZjUuUwAA</XPD:REF>
-<XPD:REF name="Instances[14]">hv6GHiy94kGIYzhK653eoAAA</XPD:REF>
-<XPD:REF name="Instances[15]">MU0CJeCOoE2VPCnkbJU0WwAA</XPD:REF>
-<XPD:REF name="Instances[16]">HwsWAK521kmc7mBg/vfLngAA</XPD:REF>
-<XPD:REF name="Instances[17]">J0wzn+S40ESLIuX7pCFjrgAA</XPD:REF>
-<XPD:REF name="Instances[18]">Go+fokrfNkK32gY6ua/9IAAA</XPD:REF>
+<XPD:REF name="Instances[9]">7OhFwo4tDUqIdRbVPYyogwAA</XPD:REF>
+<XPD:REF name="Instances[10]">+jV18SYomkyDMDegY1KelQAA</XPD:REF>
+<XPD:REF name="Instances[11]">lS+FLEK8qEyuZkWYZjUuUwAA</XPD:REF>
+<XPD:REF name="Instances[12]">hv6GHiy94kGIYzhK653eoAAA</XPD:REF>
+<XPD:REF name="Instances[13]">MU0CJeCOoE2VPCnkbJU0WwAA</XPD:REF>
+<XPD:REF name="Instances[14]">HwsWAK521kmc7mBg/vfLngAA</XPD:REF>
+<XPD:REF name="Instances[15]">J0wzn+S40ESLIuX7pCFjrgAA</XPD:REF>
+<XPD:REF name="Instances[16]">Go+fokrfNkK32gY6ua/9IAAA</XPD:REF>
+<XPD:REF name="Instances[17]">hBR0iwjSsE6/DFlR9SXyJgAA</XPD:REF>
+<XPD:ATTR name="#CreateActions" type="integer">1</XPD:ATTR>
+<XPD:REF name="CreateActions[0]">AeJ3GKKxjUiSUWg04vz8NQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[5]" type="UMLClass" guid="VA6d+U6ybUy9bl0BnET9XwAA">
 <XPD:ATTR name="Name" type="string">BasicRoom</XPD:ATTR>
@@ -2577,7 +2578,7 @@
 <XPD:ATTR name="TypeExpression" type="string">int</XPD:ATTR>
 <XPD:REF name="Owner">VA6d+U6ybUy9bl0BnET9XwAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#Instances" type="integer">12</XPD:ATTR>
+<XPD:ATTR name="#Instances" type="integer">13</XPD:ATTR>
 <XPD:REF name="Instances[0]">B8H0lpsg8kqrTTx1D88idgAA</XPD:REF>
 <XPD:REF name="Instances[1]">PvleQSIZEU2dGfA22HR24QAA</XPD:REF>
 <XPD:REF name="Instances[2]">ThH8aGpbcUauUgAZFXhwvwAA</XPD:REF>
@@ -2590,6 +2591,7 @@
 <XPD:REF name="Instances[9]">NeTQ4Zt/pUiAheeav4q95gAA</XPD:REF>
 <XPD:REF name="Instances[10]">Fdkchw/s1kaMqC07p+5zzwAA</XPD:REF>
 <XPD:REF name="Instances[11]">5PoZO4BsokukjiJKLouMeAAA</XPD:REF>
+<XPD:REF name="Instances[12]">xg4Lxd4nWU+EdeEWD/psrQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[6]" type="UMLClass" guid="q+p1edG8HEC6s9pJflKDTAAA">
 <XPD:ATTR name="Name" type="string">FFP2</XPD:ATTR>
@@ -2841,13 +2843,14 @@
 <XPD:REF name="CallActions[1]">U/LnqXkPRkGGJdJHj0tPegAA</XPD:REF>
 <XPD:REF name="CallActions[2]">DDVYrYddsUSYOQ5QiIhv2wAA</XPD:REF>
 </XPD:OBJ>
-<XPD:ATTR name="#Instances" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="#Instances" type="integer">7</XPD:ATTR>
 <XPD:REF name="Instances[0]">jq9Z4MEOJ0yVnBgMg9tajwAA</XPD:REF>
 <XPD:REF name="Instances[1]">kDc+UkaB/ku/zzxWEbTXcgAA</XPD:REF>
 <XPD:REF name="Instances[2]">ZjZNG50M1EOPDpUA9i70RQAA</XPD:REF>
 <XPD:REF name="Instances[3]">ZH0zzkiL7km20AFMpVwOkQAA</XPD:REF>
 <XPD:REF name="Instances[4]">IBeiuOlJmUCAtyRhYFBn5AAA</XPD:REF>
 <XPD:REF name="Instances[5]">qwhpv2trw0uOMU/Kn3O1dgAA</XPD:REF>
+<XPD:REF name="Instances[6]">lA8RdbnZ6U+QsIa89pC84gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[11]" type="UMLClass" guid="Fyo8H+K6FUGbalNaMXzqTgAA">
 <XPD:ATTR name="Name" type="string">Rag</XPD:ATTR>
@@ -3871,7 +3874,7 @@
 <XPD:ATTR name="#Associations" type="integer">2</XPD:ATTR>
 <XPD:REF name="Associations[0]">pfsfxGIA+k65o1PBSc4KVgAA</XPD:REF>
 <XPD:REF name="Associations[1]">Cg1JGW/ptkKHrtm4o/bE8gAA</XPD:REF>
-<XPD:ATTR name="#Instances" type="integer">8</XPD:ATTR>
+<XPD:ATTR name="#Instances" type="integer">7</XPD:ATTR>
 <XPD:REF name="Instances[0]">O5SjcuU3s0myR1paIz8otAAA</XPD:REF>
 <XPD:REF name="Instances[1]">9zIUjplfIECPE7bGzcapOgAA</XPD:REF>
 <XPD:REF name="Instances[2]">jaN9RIb8fku3ZjMOpot1tQAA</XPD:REF>
@@ -3879,7 +3882,6 @@
 <XPD:REF name="Instances[4]">suf5IpZNIUOKtgRMchboGwAA</XPD:REF>
 <XPD:REF name="Instances[5]">qZqvaHySH0mkhMjEvhrr/AAA</XPD:REF>
 <XPD:REF name="Instances[6]">9nohQQFSHkSdlVF3qjO0IwAA</XPD:REF>
-<XPD:REF name="Instances[7]">xg4Lxd4nWU+EdeEWD/psrQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedElements[59]" type="UMLClass" guid="IdiMi2C7sU2GZACpCsbWUQAA">
 <XPD:ATTR name="Name" type="string">RoomDecorator</XPD:ATTR>
@@ -4648,18 +4650,18 @@
 <XPD:REF name="Model">ZXVBh4hD30eVXdEw4AIsgAAA</XPD:REF>
 <XPD:REF name="HostEdge">6ZkHY2p+SUS2lgSloJpTrwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="NodeLabelView" guid="G6KzRBYpmkqnjDhu/yKSdgAA">
-<XPD:ATTR name="Width" type="integer">6</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">52</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">-4,22791080990547</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">21,4709105535839</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">3</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">3 : Item(5)</XPD:ATTR>
 <XPD:REF name="Model">ZXVBh4hD30eVXdEw4AIsgAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="NodeLabelView" guid="N2Gbj0BmTkCnqZQH8+iFzgAA">
 <XPD:ATTR name="Width" type="integer">63</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">13</XPD:ATTR>
-<XPD:ATTR name="Alpha" type="real">0,690446243571601</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">29,8328677803526</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">1,06369753938374</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">30,886890422961</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">&lt;&lt;create&gt;&gt;</XPD:ATTR>
 <XPD:REF name="Model">ZXVBh4hD30eVXdEw4AIsgAAA</XPD:REF>
 </XPD:OBJ>
@@ -4838,8 +4840,8 @@
 <XPD:OBJ name="OwnedViews[13]" type="UMLNoteView" guid="qs4Ke+vD906LKrTizDkIYgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">352</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">112</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">380</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">320</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">78</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">addItem * 5
@@ -4877,11 +4879,13 @@
 <XPD:REF name="Views[3]">pj0ISQUqQUO31U39Q07stwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingStimuli[2]" type="UMLStimulus" guid="ZXVBh4hD30eVXdEw4AIsgAAA">
+<XPD:ATTR name="Arguments" type="string">5</XPD:ATTR>
 <XPD:REF name="Sender">pe565+bh5USfZ/4by1gwxQAA</XPD:REF>
 <XPD:REF name="Receiver">xLlDqwjFKUuVo83KcU65CAAA</XPD:REF>
 <XPD:REF name="CommunicationLink">CzbZQp/kFEWIiJiaLfWtqAAA</XPD:REF>
 <XPD:OBJ name="Action" type="UMLCreateAction" guid="AeJ3GKKxjUiSUWg04vz8NQAA">
 <XPD:REF name="Stimulus">ZXVBh4hD30eVXdEw4AIsgAAA</XPD:REF>
+<XPD:REF name="Instantiation">O39CVcYj5kmH1FL/Ht74LwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:REF name="InteractionInstanceSet">mEm1NdHYSEScyGAbFXdjugAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
@@ -9158,7 +9162,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="Left" type="integer">136</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">84</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">169</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">178</XPD:ATTR>
 <XPD:REF name="Model">E6dWSdF/gEmVA8f1PlOnSwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="SDghx+lmg0CraIOg1PzBRgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="iH+8KBuQYUKfW0mkK7SsXgAA">
@@ -9179,10 +9183,10 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="OwnedViews[2]" type="UMLSeqObjectView" guid="vorwOLEwWUOTiU6B0dKYhQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">356</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">352</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">88</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">88</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">153</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">174</XPD:ATTR>
 <XPD:REF name="Model">5J/huIbTU0KSZ05Q7dOVpwAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="VlROVz2hX0+Jj0es1wps3gAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="SMVEzEOMYUqfMd6PX8FIOAAA">
@@ -9205,13 +9209,13 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">568</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">84</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">161</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">129</XPD:ATTR>
 <XPD:REF name="Model">lA8RdbnZ6U+QsIa89pC84gAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="l8LFHGiKT0iwsxUNJHwlhgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="fF7uLmu3uUuDyrwTzMo2jQAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">item : Item</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">c : Camembert</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="FpjzuvuFf0KSxxu/ImgqVwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -9228,7 +9232,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">171,148;393,148</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">171,148;389,148</XPD:ATTR>
 <XPD:REF name="Model">AAIKtP1adk6eJpAWcW1L+wAA</XPD:REF>
 <XPD:REF name="Head">NNKoEwlRV0uhAb9NIX1nbQAA</XPD:REF>
 <XPD:REF name="Tail">l1MDRGIVqk+HzVNj8lADgQAA</XPD:REF>
@@ -9254,7 +9258,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">7SJju2GXdE6gANqLllPW9QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="ijtBi4Ok1kiiJHWO6kuzXQAA">
-<XPD:ATTR name="Left" type="integer">393</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">389</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">148</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">69</XPD:ATTR>
@@ -9264,7 +9268,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">406,160;596,160</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">402,160;601,160</XPD:ATTR>
 <XPD:REF name="Model">GqOUZRS+rUKIWooII6AYrwAA</XPD:REF>
 <XPD:REF name="Head">XHS/ukvec0mzKgm+OoQjLwAA</XPD:REF>
 <XPD:REF name="Tail">NNKoEwlRV0uhAb9NIX1nbQAA</XPD:REF>
@@ -9290,7 +9294,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">RjKP4Iwcn0ene+XCP6Fb4wAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="ZI6UhH/J3ESrDk2f8dSO0QAA">
-<XPD:ATTR name="Left" type="integer">596</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">601</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">160</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -9300,7 +9304,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">596,184;406,184</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">601,184;402,184</XPD:ATTR>
 <XPD:REF name="Model">XVGxCfndRE29qnvccdFXPwAA</XPD:REF>
 <XPD:REF name="Head">NNKoEwlRV0uhAb9NIX1nbQAA</XPD:REF>
 <XPD:REF name="Tail">XHS/ukvec0mzKgm+OoQjLwAA</XPD:REF>
@@ -9327,7 +9331,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="4+fUav3pDEyrQoDBIuDfggAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">393</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">389</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">184</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -9337,7 +9341,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">393,200;171,200</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">389,213;171,213</XPD:ATTR>
 <XPD:REF name="Model">ZloB7L6WiU+JqJuBpvPAwAAA</XPD:REF>
 <XPD:REF name="Head">l1MDRGIVqk+HzVNj8lADgQAA</XPD:REF>
 <XPD:REF name="Tail">NNKoEwlRV0uhAb9NIX1nbQAA</XPD:REF>
@@ -9365,7 +9369,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="3m4n7oM9SkuMGTZ6022gyQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">171</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">200</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">213</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
@@ -9474,8 +9478,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="ReceivingStimuli[1]">XVGxCfndRE29qnvccdFXPwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[2]" type="UMLObject" guid="lA8RdbnZ6U+QsIa89pC84gAA">
-<XPD:ATTR name="Name" type="string">item</XPD:ATTR>
-<XPD:REF name="Classifier">O39CVcYj5kmH1FL/Ht74LwAA</XPD:REF>
+<XPD:ATTR name="Name" type="string">c</XPD:ATTR>
+<XPD:REF name="Classifier">S/bxDJ9ON0+x8V2WlFGxfQAA</XPD:REF>
 <XPD:REF name="CollaborationInstanceSet">BoNjMfU7NUavUYfecY9YWgAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">ygpzMgSUE0+Q0OJvz1fVUgAA</XPD:REF>
@@ -13647,14 +13651,14 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="DiagramView" type="UMLSequenceDiagramView" guid="AJCyKGWXl0WmrbMQQJd3RwAA">
 <XPD:REF name="Model">9xlNN1mKNkKBYpTVacudNwAA</XPD:REF>
 <XPD:REF name="Diagram">9xlNN1mKNkKBYpTVacudNwAA</XPD:REF>
-<XPD:ATTR name="#OwnedViews" type="integer">10</XPD:ATTR>
+<XPD:ATTR name="#OwnedViews" type="integer">9</XPD:ATTR>
 <XPD:OBJ name="OwnedViews[0]" type="UMLFrameView" guid="TcApTqNpNkWb0bHCxz3hyQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">280</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">52</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">433</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">361</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">268</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">56</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">445</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">249</XPD:ATTR>
 <XPD:REF name="Model">kQQdID7n2k6O91t+W9UrPAAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="HRM3/rJaRUuMbfFDHJV6kAAA">
 <XPD:ATTR name="Text" type="string">Item protectFromPoison</XPD:ATTR>
@@ -13670,7 +13674,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="Left" type="integer">188</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">104</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">181</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">201</XPD:ATTR>
 <XPD:REF name="Model">gHW9S290pkOTsOaf7pWFZQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="dpdZS0NSWk+TQUyAlEG05AAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="5HgtLoUy2U+utlq/q2zINAAA">
@@ -13691,8 +13695,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="OwnedViews[2]" type="UMLSeqObjectView" guid="LKW7bePBMUeUfQyVTbOV+wAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">424</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">116</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">420</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">112</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">88</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">173</XPD:ATTR>
 <XPD:REF name="Model">V+FPqPORR02nS256rMIHwQAA</XPD:REF>
@@ -13717,8 +13721,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">632</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">112</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">70</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">173</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">80</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">145</XPD:ATTR>
 <XPD:REF name="Model">hBR0iwjSsE6/DFlR9SXyJgAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="i68iqUz3aUuGyR2u7b/aLgAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="bGlEkPdz7kucHP9oHFhKvQAA">
@@ -13740,7 +13744,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">223,173;461,173</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">223,173;457,173</XPD:ATTR>
 <XPD:REF name="Model">pz/2ikr2Y0WEp+jpxwSCWQAA</XPD:REF>
 <XPD:REF name="Head">yCJcAzKCL0y/1b5Yqurk3wAA</XPD:REF>
 <XPD:REF name="Tail">EhOIVptMCEiRJY861RYIhQAA</XPD:REF>
@@ -13766,17 +13770,17 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">Rwsb/98+Dkm+U38143i1aAAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="+uOoDoxTXEm8UVevzJVTwAAA">
-<XPD:ATTR name="Left" type="integer">461</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">457</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">173</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">71</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">84</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 <XPD:OBJ name="OwnedViews[5]" type="UMLSeqStimulusView" guid="+rmBt/kvDEiOnUwyS8BfAQAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">474,184;660,184</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">470,184;665,184</XPD:ATTR>
 <XPD:REF name="Model">rwMfw39uZEKX9HuPqhDCAAAA</XPD:REF>
 <XPD:REF name="Head">GlUocvme8UyC2L0AtHXkXQAA</XPD:REF>
 <XPD:REF name="Tail">yCJcAzKCL0y/1b5Yqurk3wAA</XPD:REF>
@@ -13802,7 +13806,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">+rmBt/kvDEiOnUwyS8BfAQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="bw4b0/pdP0C9mXay8pm27AAA">
-<XPD:ATTR name="Left" type="integer">660</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">665</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">184</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -13812,7 +13816,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">660,208;474,208</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">665,208;470,208</XPD:ATTR>
 <XPD:REF name="Model">k/wOV3yiKUaLBQOSqdX+3QAA</XPD:REF>
 <XPD:REF name="Head">yCJcAzKCL0y/1b5Yqurk3wAA</XPD:REF>
 <XPD:REF name="Tail">GlUocvme8UyC2L0AtHXkXQAA</XPD:REF>
@@ -13839,68 +13843,58 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="GL5yrRzABEurYHmnc0XRGAAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">461</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">457</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">208</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
-<XPD:OBJ name="OwnedViews[7]" type="UMLSeqStimulusView" guid="wzHK+t8UNEKRyvHJvvmhgAAA">
+<XPD:OBJ name="OwnedViews[7]" type="UMLNoteView" guid="mZTqZEPUm0OxQ064yVUJngAA">
+<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
+<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">772</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">76</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">181</XPD:ATTR>
+<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">Ilyen kellene k&#252;l&#246;n az oktat&#243;ra is
+</XPD:ATTR>
+</XPD:OBJ>
+<XPD:OBJ name="OwnedViews[8]" type="UMLSeqStimulusView" guid="aFlzfxTQkUa4H6m13nmsxgAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">461,232;223,232</XPD:ATTR>
-<XPD:REF name="Model">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
+<XPD:ATTR name="Points" type="Points">457,255;223,255</XPD:ATTR>
+<XPD:REF name="Model">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
 <XPD:REF name="Head">EhOIVptMCEiRJY861RYIhQAA</XPD:REF>
 <XPD:REF name="Tail">yCJcAzKCL0y/1b5Yqurk3wAA</XPD:REF>
-<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="f8M9rlfQj0qgRrTVkPyhAAAA">
+<XPD:OBJ name="NameLabel" type="EdgeLabelView" guid="gTRhWHj4pkaBVsSWDQO/NwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:REF name="Model">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
-<XPD:REF name="HostEdge">wzHK+t8UNEKRyvHJvvmhgAAA</XPD:REF>
+<XPD:REF name="Model">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
+<XPD:REF name="HostEdge">aFlzfxTQkUa4H6m13nmsxgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="8XB84C1xJUmhvlcIjRmTzgAA">
+<XPD:OBJ name="StereotypeLabel" type="EdgeLabelView" guid="0sn0uxR8gUuw4Y7b0AyvBQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">25</XPD:ATTR>
-<XPD:REF name="Model">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
-<XPD:REF name="HostEdge">wzHK+t8UNEKRyvHJvvmhgAAA</XPD:REF>
+<XPD:REF name="Model">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
+<XPD:REF name="HostEdge">aFlzfxTQkUa4H6m13nmsxgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="dBGqtVAHWUaqfm48/fYGRwAA">
+<XPD:OBJ name="PropertyLabel" type="EdgeLabelView" guid="UG2CExwr/Ee1Swq55kSpGQAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Alpha" type="real">-1,5707963267949</XPD:ATTR>
 <XPD:ATTR name="Distance" type="real">10</XPD:ATTR>
-<XPD:REF name="Model">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
-<XPD:REF name="HostEdge">wzHK+t8UNEKRyvHJvvmhgAAA</XPD:REF>
+<XPD:REF name="Model">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
+<XPD:REF name="HostEdge">aFlzfxTQkUa4H6m13nmsxgAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="Activation" type="UMLActivationView" guid="LrzPSz0AckGdbNoQSiWk7AAA">
+<XPD:OBJ name="Activation" type="UMLActivationView" guid="abufzjV2iUCZooO/9DKsZwAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">223</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">232</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">255</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
 </XPD:OBJ>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[8]" type="UMLNoteView" guid="mZTqZEPUm0OxQ064yVUJngAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">888</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">96</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">181</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">Ilyen kellene k&#252;l&#246;n az oktat&#243;ra is?
-</XPD:ATTR>
-</XPD:OBJ>
-<XPD:OBJ name="OwnedViews[9]" type="UMLNoteView" guid="X14Z05Wn9EqU3H2PD1Z3VwAA">
-<XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
-<XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">820</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">236</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">148</XPD:ATTR>
-<XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">TODO diasable megcsinalni
-</XPD:ATTR>
 </XPD:OBJ>
 </XPD:OBJ>
 </XPD:OBJ>
@@ -13947,18 +13941,18 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="Views[2]">bW5031JHj06tMZNxzEJ/gAAA</XPD:REF>
 <XPD:REF name="Views[3]">fwYRZaHXHEW3mDOugBqEDAAA</XPD:REF>
 </XPD:OBJ>
-<XPD:OBJ name="ParticipatingStimuli[3]" type="UMLStimulus" guid="JB6LRqSC1kC0Eo1/RIe0PAAA">
+<XPD:OBJ name="ParticipatingStimuli[3]" type="UMLStimulus" guid="nl3WElpcQk2VGc4wv8/fyQAA">
 <XPD:REF name="Sender">V+FPqPORR02nS256rMIHwQAA</XPD:REF>
 <XPD:REF name="Receiver">gHW9S290pkOTsOaf7pWFZQAA</XPD:REF>
-<XPD:OBJ name="Action" type="UMLReturnAction" guid="XAT1xktGZ0GVrbLe56rs7QAA">
-<XPD:REF name="Stimulus">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
+<XPD:OBJ name="Action" type="UMLReturnAction" guid="q3/RUt+2CUmhyhkZ+BR4qQAA">
+<XPD:REF name="Stimulus">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:REF name="InteractionInstanceSet">S6TmVITgeUyYEA9dfitjEwAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">4</XPD:ATTR>
-<XPD:REF name="Views[0]">wzHK+t8UNEKRyvHJvvmhgAAA</XPD:REF>
-<XPD:REF name="Views[1]">f8M9rlfQj0qgRrTVkPyhAAAA</XPD:REF>
-<XPD:REF name="Views[2]">8XB84C1xJUmhvlcIjRmTzgAA</XPD:REF>
-<XPD:REF name="Views[3]">dBGqtVAHWUaqfm48/fYGRwAA</XPD:REF>
+<XPD:REF name="Views[0]">aFlzfxTQkUa4H6m13nmsxgAA</XPD:REF>
+<XPD:REF name="Views[1]">gTRhWHj4pkaBVsSWDQO/NwAA</XPD:REF>
+<XPD:REF name="Views[2]">0sn0uxR8gUuw4Y7b0AyvBQAA</XPD:REF>
+<XPD:REF name="Views[3]">UG2CExwr/Ee1Swq55kSpGQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:ATTR name="#OwnedFrames" type="integer">1</XPD:ATTR>
 <XPD:OBJ name="OwnedFrames[0]" type="UMLFrame" guid="kQQdID7n2k6O91t+W9UrPAAA">
@@ -13979,7 +13973,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="#SendingStimuli" type="integer">1</XPD:ATTR>
 <XPD:REF name="SendingStimuli[0]">pz/2ikr2Y0WEp+jpxwSCWQAA</XPD:REF>
 <XPD:ATTR name="#ReceivingStimuli" type="integer">1</XPD:ATTR>
-<XPD:REF name="ReceivingStimuli[0]">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
+<XPD:REF name="ReceivingStimuli[0]">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[1]" type="UMLObject" guid="V+FPqPORR02nS256rMIHwQAA">
 <XPD:ATTR name="Name" type="string">owner</XPD:ATTR>
@@ -13990,7 +13984,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="Views[1]">yCJcAzKCL0y/1b5Yqurk3wAA</XPD:REF>
 <XPD:ATTR name="#SendingStimuli" type="integer">2</XPD:ATTR>
 <XPD:REF name="SendingStimuli[0]">rwMfw39uZEKX9HuPqhDCAAAA</XPD:REF>
-<XPD:REF name="SendingStimuli[1]">JB6LRqSC1kC0Eo1/RIe0PAAA</XPD:REF>
+<XPD:REF name="SendingStimuli[1]">nl3WElpcQk2VGc4wv8/fyQAA</XPD:REF>
 <XPD:ATTR name="#ReceivingStimuli" type="integer">2</XPD:ATTR>
 <XPD:REF name="ReceivingStimuli[0]">pz/2ikr2Y0WEp+jpxwSCWQAA</XPD:REF>
 <XPD:REF name="ReceivingStimuli[1]">k/wOV3yiKUaLBQOSqdX+3QAA</XPD:REF>
@@ -16162,7 +16156,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">236</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">88</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">913</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">805</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">453</XPD:ATTR>
 <XPD:REF name="Model">yTFX1L/N8UGcB7NtMD2dWwAA</XPD:REF>
 <XPD:OBJ name="NameLabel" type="LabelView" guid="p8eJ9lrUVkSBCC6xWZymAQAA">
@@ -16248,8 +16242,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="OwnedViews[4]" type="UMLSeqObjectView" guid="H1Clri9F5Ua14L6ci52MWAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">732</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">124</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">680</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">133</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">350</XPD:ATTR>
 <XPD:REF name="Model">5PoZO4BsokukjiJKLouMeAAA</XPD:REF>
@@ -16272,8 +16266,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="OwnedViews[5]" type="UMLSeqObjectView" guid="ry6RKU2WWU6wEPNwbraVAAAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">900</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">120</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">840</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">79</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">350</XPD:ATTR>
 <XPD:REF name="Model">iU4DcUvw+EG5GyqCEDekewAA</XPD:REF>
@@ -16296,8 +16290,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="OwnedViews[6]" type="UMLSeqObjectView" guid="gl5NMX/D/0Kr/UAPRYqY8AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1020</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">120</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">948</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">128</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">81</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">350</XPD:ATTR>
 <XPD:REF name="Model">Iw5YY6jpvEyf2ka9uccGRAAA</XPD:REF>
@@ -16430,7 +16424,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">422,276;791,276</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">422,276;739,276</XPD:ATTR>
 <XPD:REF name="Model">hoxFKVj0uE+Y/NAiOyLsWgAA</XPD:REF>
 <XPD:REF name="Head">z3ATxZlnU06KBYV72tyNyQAA</XPD:REF>
 <XPD:REF name="Tail">SWi9MFeIjU+yJrQRYXg/vAAA</XPD:REF>
@@ -16456,7 +16450,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">dMv36w8htUi3+T90HHyBgwAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="3y2ugOaZvkycxuvjxGq2LgAA">
-<XPD:ATTR name="Left" type="integer">791</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">739</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">276</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -16466,7 +16460,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">791,303;422,303</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">739,303;422,303</XPD:ATTR>
 <XPD:REF name="Model">TQgUth8L8UW5seLClhh66wAA</XPD:REF>
 <XPD:REF name="Head">SWi9MFeIjU+yJrQRYXg/vAAA</XPD:REF>
 <XPD:REF name="Tail">z3ATxZlnU06KBYV72tyNyQAA</XPD:REF>
@@ -16502,8 +16496,8 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:OBJ name="OwnedViews[12]" type="UMLNoteView" guid="oaWlIrmpekC/mc4Wmiag4AAA">
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
-<XPD:ATTR name="Left" type="integer">1060</XPD:ATTR>
-<XPD:ATTR name="Top" type="integer">36</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">1096</XPD:ATTR>
+<XPD:ATTR name="Top" type="integer">284</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">276</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">30</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">Nem character kellene hanem Student meg Instructor
@@ -16560,7 +16554,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">422,390;932,390</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">422,390;872,390</XPD:ATTR>
 <XPD:REF name="Model">vQ7BQKQ6kEqzSDWk2cfkbQAA</XPD:REF>
 <XPD:REF name="Head">s0LDgmT1v02cZExi3Jq0JQAA</XPD:REF>
 <XPD:REF name="Tail">SWi9MFeIjU+yJrQRYXg/vAAA</XPD:REF>
@@ -16586,7 +16580,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">zMdqVgkgkUKINcdsqSSKAQAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="+Dyh13wHokOUY5UlhxKQ8wAA">
-<XPD:ATTR name="Left" type="integer">932</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">872</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">390</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -16596,7 +16590,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">422,432;1053,432</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">422,432;981,432</XPD:ATTR>
 <XPD:REF name="Model">37PvJVif9kqwOKxUtwiLRgAA</XPD:REF>
 <XPD:REF name="Head">4NWk6idk40y1G+yR2m10XAAA</XPD:REF>
 <XPD:REF name="Tail">SWi9MFeIjU+yJrQRYXg/vAAA</XPD:REF>
@@ -16622,7 +16616,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">KmwsjXJJIk6KweGjJYUn3gAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="Tnua5OTPR0e5cIVaMP0VuwAA">
-<XPD:ATTR name="Left" type="integer">1053</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">981</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">432</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -18563,13 +18557,13 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="Left" type="integer">544</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">84</XPD:ATTR>
-<XPD:ATTR name="Width" type="integer">113</XPD:ATTR>
+<XPD:ATTR name="Width" type="integer">133</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">350</XPD:ATTR>
 <XPD:REF name="Model">xg4Lxd4nWU+EdeEWD/psrQAA</XPD:REF>
 <XPD:OBJ name="NameCompartment" type="UMLNameCompartmentView" guid="A47eFqAN3U20qyrxJTm3ogAA">
 <XPD:OBJ name="NameLabel" type="LabelView" guid="xZdm3z3qdU2YdIGzgg+VAQAA">
 <XPD:ATTR name="FontStyle" type="integer">4</XPD:ATTR>
-<XPD:ATTR name="Text" type="string">currentRoom : IRoom</XPD:ATTR>
+<XPD:ATTR name="Text" type="string">currentRoom : BasicRoom</XPD:ATTR>
 </XPD:OBJ>
 <XPD:OBJ name="StereotypeLabel" type="LabelView" guid="jF9E8u49YECyRyFSUJ+xewAA">
 <XPD:ATTR name="Visible" type="boolean">False</XPD:ATTR>
@@ -18646,7 +18640,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">392,160;593,160</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">392,160;603,160</XPD:ATTR>
 <XPD:REF name="Model">bfOj0fVfVkOTSaCEOVZCBwAA</XPD:REF>
 <XPD:REF name="Head">NRHP0TJFL0Sb5rYWwGVzcQAA</XPD:REF>
 <XPD:REF name="Tail">j/Q9yx4QF0uP8j6yZ+aJyQAA</XPD:REF>
@@ -18672,7 +18666,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:REF name="HostEdge">rwNKnIXo1kCvz6Xgn9KtagAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="Activation" type="UMLActivationView" guid="RkK0ZAEftkOEay+j4zd7XQAA">
-<XPD:ATTR name="Left" type="integer">593</XPD:ATTR>
+<XPD:ATTR name="Left" type="integer">603</XPD:ATTR>
 <XPD:ATTR name="Top" type="integer">160</XPD:ATTR>
 <XPD:ATTR name="Width" type="integer">14</XPD:ATTR>
 <XPD:ATTR name="Height" type="integer">29</XPD:ATTR>
@@ -18682,7 +18676,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 <XPD:ATTR name="LineColor" type="string">clMaroon</XPD:ATTR>
 <XPD:ATTR name="FillColor" type="string">$00B9FFFF</XPD:ATTR>
 <XPD:ATTR name="LineStyle" type="LineStyleKind">lsRectilinear</XPD:ATTR>
-<XPD:ATTR name="Points" type="Points">593,186;392,186</XPD:ATTR>
+<XPD:ATTR name="Points" type="Points">603,186;392,186</XPD:ATTR>
 <XPD:REF name="Model">lXCLjwpyT0a5Wa46ckbPDwAA</XPD:REF>
 <XPD:REF name="Head">j/Q9yx4QF0uP8j6yZ+aJyQAA</XPD:REF>
 <XPD:REF name="Tail">NRHP0TJFL0Sb5rYWwGVzcQAA</XPD:REF>
@@ -18923,7 +18917,7 @@ Azt amikor nem tudja azt a pickItem kezeli le k&#252;l&#246;n
 </XPD:OBJ>
 <XPD:OBJ name="ParticipatingInstances[2]" type="UMLObject" guid="xg4Lxd4nWU+EdeEWD/psrQAA">
 <XPD:ATTR name="Name" type="string">currentRoom</XPD:ATTR>
-<XPD:REF name="Classifier">fMgE4MQpx0GAnQ1VUpF36wAA</XPD:REF>
+<XPD:REF name="Classifier">VA6d+U6ybUy9bl0BnET9XwAA</XPD:REF>
 <XPD:REF name="CollaborationInstanceSet">EFk+2HVzOEm3MOrlE1ylIAAA</XPD:REF>
 <XPD:ATTR name="#Views" type="integer">2</XPD:ATTR>
 <XPD:REF name="Views[0]">WsIpe1jSb0SRGkDVbfN6+wAA</XPD:REF>
