@@ -619,8 +619,8 @@
 <XPD:REF name="Model">e+9IhAW28UqArxkVy85X1QAA</XPD:REF>
 </XPD:OBJ>
 <XPD:OBJ name="HeadMultiplicityLabel" type="EdgeLabelView" guid="UD318loSHU+gmed4azEiEgAA">
-<XPD:ATTR name="Alpha" type="real">0,0176999658069872</XPD:ATTR>
-<XPD:ATTR name="Distance" type="real">399,716149285965</XPD:ATTR>
+<XPD:ATTR name="Alpha" type="real">0,0181832317083508</XPD:ATTR>
+<XPD:ATTR name="Distance" type="real">399,449621354183</XPD:ATTR>
 <XPD:ATTR name="EdgePosition" type="EdgePositionKind">epHead</XPD:ATTR>
 <XPD:ATTR name="Text" type="string">0..capacity</XPD:ATTR>
 <XPD:REF name="Model">gfXTZIY6CkG2VZZVvh+aeAAA</XPD:REF>
